@@ -12,7 +12,7 @@ une séquence de tir réaliste, il faut préalablement définir certains paramè
 masse du missile et ces coefficients de trainée et de portance constants, une
 position, une vitesse et accélération de la cible afin de tester le modèle, une force
 initiale instantanée du canon appliqué sur le missile. Le coefficient de trainer a été
-supposé avec un Reynolds de 5 ∗ 105 et le coefficient de portance a été assumé à
+supposé avec un Reynolds de 5 ∗ 10^5 et le coefficient de portance a été assumé à
 0.05.
 
 ## Procédure de résolution
