@@ -13,7 +13,7 @@ masse du missile et ces coefficients de trainée et de portance constants, une
 position, une vitesse et accélération de la cible afin de tester le modèle, une force
 initiale instantanée du canon appliqué sur le missile. Le coefficient de trainer a été
 supposé avec un Reynolds de 5 ∗ 105 et le coefficient de portance a été assumé à
-0.05.(Dumas, 2015)
+0.05.
 
 ## Procédure de résolution
 En se basant sur les hypothèses et les constantes posées précédemment un fichier Matlab contenant toutes 
